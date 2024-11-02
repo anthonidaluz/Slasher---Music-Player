@@ -1,6 +1,7 @@
 # Slasher - Music Player 🎶
 
 Bem-vindo ao **Slasher**! Este repositório contém um reprodutor de música com interface gráfica, desenvolvido em Java no NetBeans.
+**Vídeo demonstração:** https://www.youtube.com/watch?v=f7MHo7ejVYU
 
 ## Pré-requisitos
 
